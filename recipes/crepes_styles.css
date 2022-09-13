@@ -1,0 +1,24 @@
+.title{
+    color: white;
+    background-color: brown;
+    text-align: center;
+}
+.sections{
+    color: green;
+    font-size: 25px;
+}
+.desc{
+    color: indigo;
+    font-size: 18px;
+}
+.itemz{
+    color: blue;
+    font-size: 18px;
+}
+.img{
+    height: 500px;
+    width: auto;
+}
+.steps{
+    font-size: 18px;
+}

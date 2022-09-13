@@ -1,0 +1,11 @@
+.title{
+   background-color: rgb(109, 199, 84); 
+   text-align: center;
+   color: white;
+   font-size: 46px;
+}
+.item{
+    background-color: rgb(232, 255, 60);
+    font-size: 25px;
+    font-weight: 800;
+}
